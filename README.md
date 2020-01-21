@@ -2,7 +2,7 @@
 
 ## Screenshots
 
-https://github.com/Nerajno/folkmusic/blob/master/Lyrics_ScreenShot.png
+[!Screenshot](https://github.com/Nerajno/folkmusic/Lyrics_ScreenShot.png)
 
 
 ## Lyrics
