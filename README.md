@@ -1,7 +1,11 @@
-Various isolated parts of folkmusic.com that could use improvement.
+# Various isolated parts of folkmusic.com that could use improvement.
+
+## Screenshots
+
+[ScreenShot](https://github.com/Nerajno/folkmusic/blob/master/Lyrics_ScreenShot.png)
 
 
-# Lyrics
+## Lyrics
 This is a basic lyrics search feature as seen on folkmusic.com. There are are various improvements that could be made as this was written before I knew some basics about accessibility. It works by using 2 Handlebars templates in index.html:
 
 - `lyrics-results-template` to show the full list of results, and
